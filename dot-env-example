@@ -1,0 +1,2 @@
+# copy your env to .env file
+URL=postgresql://ibm_cloud_ user:pass@the.address.databases.appdomain.cloud:port/ibmclouddb
